@@ -1,1 +1,6 @@
-# mi-primer-repositorio
+#Mi Proyecto
+
+contador = 1
+while contador <= 100:
+    print(contador)
+    contador +=1
